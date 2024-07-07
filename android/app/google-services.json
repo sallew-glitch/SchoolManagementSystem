@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427025086869",
+    "project_id": "madproject-75bda",
+    "storage_bucket": "madproject-75bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427025086869:android:6973700a95afcbcf121e9c",
+        "android_client_info": {
+          "package_name": "com.company.MADProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJO0UN47DuuILU552yxhRFsm3IKjE9E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427025086869:android:3288c34af797c294121e9c",
+        "android_client_info": {
+          "package_name": "com.madsms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJO0UN47DuuILU552yxhRFsm3IKjE9E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
